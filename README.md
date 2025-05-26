@@ -39,7 +39,7 @@ Responsive UI: Designed for mobile-first experience via Rork
 Login Screen	Add Transaction	Dashboard
 		
 🌐 Live Demo: https://hustle-helper-frontend-git-main-joseph-eyanaes-projects.vercel.app
-📦 GitHub Repo: 
+📦 GitHub Repo: https://github.com/JEyanae/Hustle-Helper-Frontend
 
 🌍 Impact
 By providing informal entrepreneurs in Kakuma with simple digital tools, Hustle Helper brings financial literacy, empowerment, and dignity through tech.
